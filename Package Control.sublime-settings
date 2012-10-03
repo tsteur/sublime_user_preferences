@@ -1,0 +1,47 @@
+{
+	"auto_upgrade_last_run": 1349126988,
+	"installed_packages":
+	[
+		"4GL",
+		"Additional PHP Snippets",
+		"AdvancedNewFile",
+		"Alignment",
+		"Browser Refresh",
+		"Clipboard History",
+		"Django-DocsSearch",
+		"Git",
+		"IPython Integration",
+		"JsFormat",
+		"JSHint",
+		"JsMinifier",
+		"Laravel Bootstrapper Snippets",
+		"Laravel Snippets",
+		"Laravel-Blade",
+		"Package Control",
+		"PhpBeautifier",
+		"Phpcs",
+		"PhpDoc",
+		"PHPUnit",
+		"Prefixr",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"sublime-text-puppet",
+		"SublimeLinter",
+		"Titanium API Search",
+		"ZenCoding"
+	],
+	"repositories":
+	[
+		"https://github.com/wbond/sublime_prefixr",
+		"https://github.com/jdc0589/JsFormat",
+		"https://github.com/kronuz/SublimeLinter/",
+		"https://github.com/wbond/sublime_alignment",
+		"https://github.com/kemayo/sublime-text-2-clipboard-history",
+		"https://github.com/cgutierrez/JsMinifier",
+		"https://github.com/Kronuz/SublimeCodeIntel",
+		"https://github.com/facelessuser/BracketHighlighter",
+		"https://github.com/SublimeLinter/SublimeLinter",
+		"https://github.com/arioch/sublime-text-puppet-DEPRECATED",
+		"https://github.com/JeffChan/sublime-text-puppet"
+	]
+}
