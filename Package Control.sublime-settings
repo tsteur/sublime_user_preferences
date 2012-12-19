@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1349546341,
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
 		"4GL",
@@ -9,6 +9,7 @@
 		"AndyPython",
 		"Browser Refresh",
 		"Clipboard History",
+		"CoffeeScript",
 		"Django-DocsSearch",
 		"DocBlockr",
 		"Git",
@@ -18,6 +19,7 @@
 		"JsFormat",
 		"JSHint",
 		"JsMinifier",
+		"KeymapManager",
 		"Laravel Bootstrapper Snippets",
 		"Laravel Snippets",
 		"Laravel-Blade",
@@ -33,8 +35,10 @@
 		"SideBarEnhancements",
 		"SideBarGit",
 		"sublime-text-puppet",
+		"SublimeCodeIntel",
 		"SublimeLinter",
 		"Symfony2 Snippets",
+		"Tita",
 		"Titanium API Search",
 		"ZenCoding"
 	],
@@ -49,7 +53,6 @@
 		"https://github.com/Kronuz/SublimeCodeIntel",
 		"https://github.com/facelessuser/BracketHighlighter",
 		"https://github.com/SublimeLinter/SublimeLinter",
-		"https://github.com/arioch/sublime-text-puppet-DEPRECATED",
 		"https://github.com/JeffChan/sublime-text-puppet"
 	]
 }
