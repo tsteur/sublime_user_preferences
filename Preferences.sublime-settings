@@ -1,14 +1,15 @@
 {
-    "draw_white_space": "all",
-    "font_size": 15.0,
-    "ignored_packages":
-    [
-        "Vintage"
-    ],
-    "rulers":
-    [
-        120
-    ],
-    // Set to true to insert spaces when tab is pressed
-    "translate_tabs_to_spaces": true
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"draw_white_space": "all",
+	"font_size": 19.0,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		120
+	],
+	"show_full_path": true,
+	"translate_tabs_to_spaces": true
 }
